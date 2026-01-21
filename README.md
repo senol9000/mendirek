@@ -58,3 +58,13 @@ trabzon-fener/
 │ └── index.html
 └── README.md
 
+### kurulum
+cd trabzon-fener
+npm install
+npm start
+
+### tarayıcı
+http://127.0.0.1:3000
+
+
+
