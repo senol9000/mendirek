@@ -51,3 +51,10 @@ Uygulama;
 
 ## 📁 Proje Yapısı
 
+trabzon-fener/
+├── server.js
+├── package.json
+├── public/
+│ └── index.html
+└── README.md
+
